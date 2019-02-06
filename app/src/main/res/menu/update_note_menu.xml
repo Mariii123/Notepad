@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/u_clear_note"
+        android:icon="@drawable/clear_icon"
+        android:title=""
+        android:tooltipText="Clear"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/update_note"
+        android:icon="@drawable/save_icon"
+        android:title=""
+        android:tooltipText="Update Note"
+        app:showAsAction="always" />
+
+</menu>
